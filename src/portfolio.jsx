@@ -125,7 +125,7 @@ const Portfolio = () => {
       title: "Portfolio Website",
       teamSize: 1,
       description: "My personal portfolio showcasing skills and projects...",
-      link: "https://qrcraft57.netlify.app/",
+      link: "https://madhansundhar57.netlify.app/",
       tech: ["React.js", "JavaScript", "CSS3"]
     },
     {
