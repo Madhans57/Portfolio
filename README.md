@@ -1,12 +1,29 @@
-# React + Vite
+# 💼 Portfolio Website – Madhan Sundhar S
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, fully responsive personal portfolio website built with **React.js** and **CSS**. It features animated sections, a clean dark theme, and smooth navigation to showcase my skills, projects, education, experience, and contact details.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [Visit My Portfolio](https://madhansundhar57.netlify.app/)  
+> Replace with your actual portfolio link if needed.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- 🔄 Animated section reveals on scroll
+- 🎯 Scroll-spy navigation highlighting
+- 🧑‍💼 Dedicated sections for About, Skills, Projects, Education, Experience, and Contact
+- 📄 Resume download button
+- 🌙 Dark UI theme with smooth gradients
+- 📱 Responsive design for all screen sizes
+
+---
+
+## 🛠 Tech Stack
+
+- **React.js** – Component-based UI development
+- **CSS3** – Custom styling and layout
+- **Lucide-react** – Modern and lightweight icons
+
+---
